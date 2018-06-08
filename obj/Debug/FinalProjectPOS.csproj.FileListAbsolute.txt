@@ -1,0 +1,75 @@
+C:\Users\user\source\repos\FinalProjectPOS\bin\Debug\FinalProjectPOS.exe.config
+C:\Users\user\source\repos\FinalProjectPOS\bin\Debug\FinalProjectPOS.exe
+C:\Users\user\source\repos\FinalProjectPOS\bin\Debug\FinalProjectPOS.pdb
+C:\Users\user\source\repos\FinalProjectPOS\obj\Debug\FinalProjectPOS.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\FinalProjectPOS\obj\Debug\FinalProjectPOS.Form1.resources
+C:\Users\user\source\repos\FinalProjectPOS\obj\Debug\FinalProjectPOS.Properties.Resources.resources
+C:\Users\user\source\repos\FinalProjectPOS\obj\Debug\FinalProjectPOS.ShowEmployee.resources
+C:\Users\user\source\repos\FinalProjectPOS\obj\Debug\FinalProjectPOS.ShowMenu.resources
+C:\Users\user\source\repos\FinalProjectPOS\obj\Debug\FinalProjectPOS.ShowSales.resources
+C:\Users\user\source\repos\FinalProjectPOS\obj\Debug\FinalProjectPOS.UserMenu.resources
+C:\Users\user\source\repos\FinalProjectPOS\obj\Debug\FinalProjectPOS.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FinalProjectPOS\obj\Debug\FinalProjectPOS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinalProjectPOS\obj\Debug\FinalProjectPOS.exe
+C:\Users\user\source\repos\FinalProjectPOS\obj\Debug\FinalProjectPOS.pdb
+C:\Users\user\source\repos\FinalProjectPOS\obj\Debug\FinalProjectPOS.EmployeeMenu.resources
+C:\Users\user\Desktop\씨샵파일\bin\Debug\FinalProjectPOS.exe.config
+C:\Users\user\Desktop\씨샵파일\obj\Debug\FinalProjectPOS.exe
+C:\Users\user\Desktop\씨샵파일\obj\Debug\FinalProjectPOS.pdb
+C:\Users\user\Desktop\씨샵파일\bin\Debug\FinalProjectPOS.exe
+C:\Users\user\Desktop\씨샵파일\bin\Debug\FinalProjectPOS.pdb
+C:\Users\user\Desktop\씨샵파일\obj\Debug\FinalProjectPOS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\씨샵파일\obj\Debug\FinalProjectPOS.EmployeeMenu.resources
+C:\Users\user\Desktop\씨샵파일\obj\Debug\FinalProjectPOS.FirstChoose.resources
+C:\Users\user\Desktop\씨샵파일\obj\Debug\FinalProjectPOS.Form1.resources
+C:\Users\user\Desktop\씨샵파일\obj\Debug\FinalProjectPOS.Properties.Resources.resources
+C:\Users\user\Desktop\씨샵파일\obj\Debug\FinalProjectPOS.ShowEmployee.resources
+C:\Users\user\Desktop\씨샵파일\obj\Debug\FinalProjectPOS.ShowMenu.resources
+C:\Users\user\Desktop\씨샵파일\obj\Debug\FinalProjectPOS.ShowSales.resources
+C:\Users\user\Desktop\씨샵파일\obj\Debug\FinalProjectPOS.UserMenu.resources
+C:\Users\user\Desktop\씨샵파일\obj\Debug\FinalProjectPOS.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\직원관리\bin\Debug\FinalProjectPOS.exe.config
+C:\Users\home\Desktop\직원관리\obj\Debug\FinalProjectPOS.exe
+C:\Users\home\Desktop\직원관리\obj\Debug\FinalProjectPOS.pdb
+C:\Users\home\Desktop\직원관리\bin\Debug\FinalProjectPOS.exe
+C:\Users\home\Desktop\직원관리\bin\Debug\FinalProjectPOS.pdb
+C:\Users\home\Desktop\직원관리\obj\Debug\FinalProjectPOS.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\직원관리\obj\Debug\FinalProjectPOS.Form1.resources
+C:\Users\home\Desktop\직원관리\obj\Debug\FinalProjectPOS.Properties.Resources.resources
+C:\Users\home\Desktop\직원관리\obj\Debug\FinalProjectPOS.UserMenu.resources
+C:\Users\home\Desktop\직원관리\obj\Debug\FinalProjectPOS.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\직원관리\obj\Debug\FinalProjectPOS.JoinManager.resources
+C:\Users\user\Desktop\직원관리\bin\Debug\FinalProjectPOS.exe.config
+C:\Users\user\Desktop\직원관리\obj\Debug\FinalProjectPOS.exe
+C:\Users\user\Desktop\직원관리\obj\Debug\FinalProjectPOS.pdb
+C:\Users\user\Desktop\직원관리\bin\Debug\FinalProjectPOS.exe
+C:\Users\user\Desktop\직원관리\bin\Debug\FinalProjectPOS.pdb
+C:\Users\user\Desktop\직원관리\obj\Debug\FinalProjectPOS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\직원관리\obj\Debug\FinalProjectPOS.Form1.resources
+C:\Users\user\Desktop\직원관리\obj\Debug\FinalProjectPOS.JoinManager.resources
+C:\Users\user\Desktop\직원관리\obj\Debug\FinalProjectPOS.Properties.Resources.resources
+C:\Users\user\Desktop\직원관리\obj\Debug\FinalProjectPOS.UserMenu.resources
+C:\Users\user\Desktop\직원관리\obj\Debug\FinalProjectPOS.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\직원관리2\직원관리 (2)\bin\Debug\FinalProjectPOS.exe.config
+C:\Users\home\Desktop\직원관리2\직원관리 (2)\obj\Debug\FinalProjectPOS.exe
+C:\Users\home\Desktop\직원관리2\직원관리 (2)\obj\Debug\FinalProjectPOS.pdb
+C:\Users\home\Desktop\직원관리2\직원관리 (2)\bin\Debug\FinalProjectPOS.exe
+C:\Users\home\Desktop\직원관리2\직원관리 (2)\bin\Debug\FinalProjectPOS.pdb
+C:\Users\home\Desktop\직원관리2\직원관리 (2)\obj\Debug\FinalProjectPOS.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\직원관리2\직원관리 (2)\obj\Debug\FinalProjectPOS.Form1.resources
+C:\Users\home\Desktop\직원관리2\직원관리 (2)\obj\Debug\FinalProjectPOS.JoinManager.resources
+C:\Users\home\Desktop\직원관리2\직원관리 (2)\obj\Debug\FinalProjectPOS.Properties.Resources.resources
+C:\Users\home\Desktop\직원관리2\직원관리 (2)\obj\Debug\FinalProjectPOS.UserMenu.resources
+C:\Users\home\Desktop\직원관리2\직원관리 (2)\obj\Debug\FinalProjectPOS.csproj.GenerateResource.Cache
+C:\Users\Moon JinWoo\Desktop\직원관리 (2)\obj\Debug\FinalProjectPOS.csprojResolveAssemblyReference.cache
+C:\Users\Moon JinWoo\Desktop\직원관리 (2)\obj\Debug\FinalProjectPOS.Form1.resources
+C:\Users\Moon JinWoo\Desktop\직원관리 (2)\obj\Debug\FinalProjectPOS.JoinManager.resources
+C:\Users\Moon JinWoo\Desktop\직원관리 (2)\obj\Debug\FinalProjectPOS.Properties.Resources.resources
+C:\Users\Moon JinWoo\Desktop\직원관리 (2)\obj\Debug\FinalProjectPOS.UserMenu.resources
+C:\Users\Moon JinWoo\Desktop\직원관리 (2)\obj\Debug\FinalProjectPOS.csproj.GenerateResource.Cache
+C:\Users\Moon JinWoo\Desktop\직원관리 (2)\obj\Debug\FinalProjectPOS.csproj.CoreCompileInputs.cache
+C:\Users\Moon JinWoo\Desktop\직원관리 (2)\obj\Debug\FinalProjectPOS.exe
+C:\Users\Moon JinWoo\Desktop\직원관리 (2)\obj\Debug\FinalProjectPOS.pdb
+C:\Users\Moon JinWoo\Desktop\직원관리 (2)\bin\Debug\FinalProjectPOS.exe.config
+C:\Users\Moon JinWoo\Desktop\직원관리 (2)\bin\Debug\FinalProjectPOS.exe
+C:\Users\Moon JinWoo\Desktop\직원관리 (2)\bin\Debug\FinalProjectPOS.pdb

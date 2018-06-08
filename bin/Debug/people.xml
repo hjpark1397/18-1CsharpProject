@@ -1,0 +1,26 @@
+<Person>
+<person>
+ <name>문진우</name>
+ <birthday>19970918</birthday>
+ <phone>01092216320</phone>
+ <payment>7000</payment>
+ <workingtime>120</workingtime>
+ <totalpay>840000</totalpay>
+</person>
+<person>
+ <name>버즈</name>
+ <birthday>19923011</birthday>
+ <phone>01022314561</phone>
+ <payment>1000</payment>
+ <workingtime>33</workingtime>
+ <totalpay>33000</totalpay>
+</person>
+<person>
+ <name>박현주</name>
+ <birthday>19970408</birthday>
+ <phone>01087497938</phone>
+ <payment>8000</payment>
+ <workingtime>50</workingtime>
+ <totalpay>400000</totalpay>
+</person>
+</Person>
