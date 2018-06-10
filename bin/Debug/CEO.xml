@@ -1,8 +1,30 @@
 <member>
 <ceo>
- <name>qkr</name>
- <birthday>1234595</birthday>
- <phone>12323941</phone>
- <ID>shj04100</ID>
- <password>6285</password>
+ <name>문진우</name>
+ <birthday>19970918</birthday>
+ <phone>01092216320</phone>
+ <ID>Hia7</ID>
+ <password>123</password>
+</ceo>
+<ceo>
+ <name>박현주</name>
+ <birthday>19970408</birthday>
+ <phone>01087497938</phone>
+ <ID>hjpark7938</ID>
+ <password>guswn305</password>
+</ceo>
+<ceo>
+ <name>asdf</name>
+ <birthday>asdf</birthday>
+ <phone>asdf</phone>
+ <ID>hjpark0408</ID>
+ <password>guswn305</password>
+</ceo>
+<ceo>
+ <name>2324aa</name>
+ <birthday>dsfa112</birthday>
+ <phone>1241112</phone>
+ <ID>hjpark99947</ID>
+ <password>1111</password>
+</ceo>
 </member>

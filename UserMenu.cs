@@ -33,6 +33,7 @@ namespace FinalProjectPOS
                  textBox3_Phone.Text = person.PhoneNum;
                  textBox4_WorkingTime.Text = person.Time.ToString();
                  textBox5_Pay.Text = person.Payment.ToString();
+                label7_TotalPay.Text = person.Totalpay.ToString();
 
             }
             catch(Exception exception)
@@ -112,7 +113,7 @@ namespace FinalProjectPOS
                 DataManager.People.Remove(person);//데이터에 있던 사람을 지운다.
 
                 dataGridView1.DataSource = null;//공백으로 만들어줌
-                dataGridView1.DataSource = DataManager.People;
+                dataGridView1.DataSource = DataManager.People;//수정된 정보를 데이터그리드 항목에 넣어준다.
                 DataManager.Save();//저장
             }
             catch(Exception exception)
@@ -130,6 +131,11 @@ namespace FinalProjectPOS
         {
             DataManager.Save();
             Application.Exit(); // 모든 창 (Hide된 창 포함)을 종료한다.
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

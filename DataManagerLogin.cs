@@ -22,7 +22,7 @@ namespace FinalProjectPOS
             {
                 string CEOOutput = File.ReadAllText(@"./CEO.xml");//xml파일 만들기 파일명 CEO(관리자니까!)
                 XElement CEOXElment = XElement.Parse(CEOOutput);
-                CEO = (from item in CEOXElment.Descendants("CEO")
+                CEO = (from item in CEOXElment.Descendants("ceo")
                           select new JoinIn()
                           {
                               Name = item.Element("name").Value,
@@ -34,7 +34,7 @@ namespace FinalProjectPOS
             }
             catch (FileNotFoundException exception)
             {
-                Save();
+                Save();//파일이 없으면 만들기
             }
         }
         public static void Save()

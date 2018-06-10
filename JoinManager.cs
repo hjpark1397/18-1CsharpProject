@@ -33,6 +33,10 @@ namespace FinalProjectPOS
                 {
                     MessageBox.Show("이미 존재하는 정보가 있습니다.");//만약 있다면 있다는 안내메세지를 띄워줄것임 그리고 다시 쳐야함
                 }
+                else if(DataManagerLogin.CEO.Exists((x) => x.ID == textBox4_id.Text))
+                {
+                    MessageBox.Show("ID 중복확인을 해주세요.");
+                }
                 else
                 {
                     JoinIn Member = new JoinIn()//텍스트에 정보를 입력받는다.
@@ -64,6 +68,16 @@ namespace FinalProjectPOS
             }
             else
                 MessageBox.Show("사용가능한 아이디 입니다!");
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_name_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -46,6 +46,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.Delete = new System.Windows.Forms.Button();
             this.Change = new System.Windows.Forms.Button();
+            this.label7_TotalPay = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
             this.nameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.birthDayDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.phoneNumDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -60,13 +62,15 @@
             // 
             // Logout
             // 
+            this.Logout.BackColor = System.Drawing.SystemColors.MenuBar;
             this.Logout.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Logout.Location = new System.Drawing.Point(270, 496);
+            this.Logout.Font = new System.Drawing.Font("BM DoHyeon", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.Logout.Location = new System.Drawing.Point(232, 573);
             this.Logout.Name = "Logout";
-            this.Logout.Size = new System.Drawing.Size(72, 36);
+            this.Logout.Size = new System.Drawing.Size(91, 36);
             this.Logout.TabIndex = 5;
             this.Logout.Text = "로그아웃";
-            this.Logout.UseVisualStyleBackColor = true;
+            this.Logout.UseVisualStyleBackColor = false;
             this.Logout.Click += new System.EventHandler(this.Logout_Click);
             // 
             // dataGridView1
@@ -82,7 +86,7 @@
             this.timeDataGridViewTextBoxColumn,
             this.totalpayDataGridViewTextBoxColumn});
             this.dataGridView1.DataSource = this.personBindingSource;
-            this.dataGridView1.Location = new System.Drawing.Point(12, 210);
+            this.dataGridView1.Location = new System.Drawing.Point(12, 287);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.AutoSizeToAllHeaders;
             this.dataGridView1.RowTemplate.Height = 23;
@@ -105,13 +109,15 @@
             // 
             // End
             // 
+            this.End.BackColor = System.Drawing.SystemColors.MenuBar;
             this.End.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.End.Location = new System.Drawing.Point(348, 496);
+            this.End.Font = new System.Drawing.Font("BM DoHyeon", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.End.Location = new System.Drawing.Point(329, 573);
             this.End.Name = "End";
-            this.End.Size = new System.Drawing.Size(72, 36);
+            this.End.Size = new System.Drawing.Size(91, 36);
             this.End.TabIndex = 5;
             this.End.Text = "종료하기";
-            this.End.UseVisualStyleBackColor = true;
+            this.End.UseVisualStyleBackColor = false;
             this.End.Click += new System.EventHandler(this.End_Click_1);
             // 
             // groupBox1
@@ -136,37 +142,42 @@
             // 
             // textBox5_Pay
             // 
+            this.textBox5_Pay.Font = new System.Drawing.Font("Gulim", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox5_Pay.Location = new System.Drawing.Point(139, 158);
             this.textBox5_Pay.Name = "textBox5_Pay";
-            this.textBox5_Pay.Size = new System.Drawing.Size(125, 31);
+            this.textBox5_Pay.Size = new System.Drawing.Size(125, 26);
             this.textBox5_Pay.TabIndex = 1;
             // 
             // textBox4_WorkingTime
             // 
+            this.textBox4_WorkingTime.Font = new System.Drawing.Font("Gulim", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox4_WorkingTime.Location = new System.Drawing.Point(139, 128);
             this.textBox4_WorkingTime.Name = "textBox4_WorkingTime";
-            this.textBox4_WorkingTime.Size = new System.Drawing.Size(125, 31);
+            this.textBox4_WorkingTime.Size = new System.Drawing.Size(125, 26);
             this.textBox4_WorkingTime.TabIndex = 1;
             // 
             // textBox3_Phone
             // 
+            this.textBox3_Phone.Font = new System.Drawing.Font("Gulim", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox3_Phone.Location = new System.Drawing.Point(139, 97);
             this.textBox3_Phone.Name = "textBox3_Phone";
-            this.textBox3_Phone.Size = new System.Drawing.Size(125, 31);
+            this.textBox3_Phone.Size = new System.Drawing.Size(125, 26);
             this.textBox3_Phone.TabIndex = 1;
             // 
             // textBox2_BirthDay
             // 
+            this.textBox2_BirthDay.Font = new System.Drawing.Font("Gulim", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox2_BirthDay.Location = new System.Drawing.Point(139, 65);
             this.textBox2_BirthDay.Name = "textBox2_BirthDay";
-            this.textBox2_BirthDay.Size = new System.Drawing.Size(125, 31);
+            this.textBox2_BirthDay.Size = new System.Drawing.Size(125, 26);
             this.textBox2_BirthDay.TabIndex = 1;
             // 
             // textBox1_Name
             // 
+            this.textBox1_Name.Font = new System.Drawing.Font("Gulim", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.textBox1_Name.Location = new System.Drawing.Point(139, 31);
             this.textBox1_Name.Name = "textBox1_Name";
-            this.textBox1_Name.Size = new System.Drawing.Size(125, 31);
+            this.textBox1_Name.Size = new System.Drawing.Size(125, 26);
             this.textBox1_Name.TabIndex = 1;
             // 
             // label5
@@ -245,6 +256,27 @@
             this.Change.UseVisualStyleBackColor = false;
             this.Change.Click += new System.EventHandler(this.Change_Click);
             // 
+            // label7_TotalPay
+            // 
+            this.label7_TotalPay.BackColor = System.Drawing.SystemColors.HighlightText;
+            this.label7_TotalPay.Font = new System.Drawing.Font("Gulim", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label7_TotalPay.Location = new System.Drawing.Point(149, 220);
+            this.label7_TotalPay.Name = "label7_TotalPay";
+            this.label7_TotalPay.Size = new System.Drawing.Size(127, 26);
+            this.label7_TotalPay.TabIndex = 12;
+            this.label7_TotalPay.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label7_TotalPay.Click += new System.EventHandler(this.label7_Click);
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Gulim", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label8.Location = new System.Drawing.Point(18, 226);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(73, 13);
+            this.label8.TabIndex = 0;
+            this.label8.Text = "▶ 총 임금";
+            // 
             // nameDataGridViewTextBoxColumn
             // 
             this.nameDataGridViewTextBoxColumn.DataPropertyName = "Name";
@@ -296,10 +328,12 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.ClientSize = new System.Drawing.Size(436, 537);
+            this.ClientSize = new System.Drawing.Size(432, 616);
+            this.Controls.Add(this.label7_TotalPay);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.Change);
             this.Controls.Add(this.Delete);
+            this.Controls.Add(this.label8);
             this.Controls.Add(this.AddEmployee);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.End);
@@ -312,6 +346,7 @@
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.personBindingSource)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -340,5 +375,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn timeDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn totalpayDataGridViewTextBoxColumn;
         private System.Windows.Forms.BindingSource personBindingSource;
+        private System.Windows.Forms.Label label7_TotalPay;
+        private System.Windows.Forms.Label label8;
     }
 }

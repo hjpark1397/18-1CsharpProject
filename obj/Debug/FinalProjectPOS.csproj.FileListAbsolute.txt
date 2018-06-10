@@ -73,3 +73,25 @@ C:\Users\Moon JinWoo\Desktop\직원관리 (2)\obj\Debug\FinalProjectPOS.pdb
 C:\Users\Moon JinWoo\Desktop\직원관리 (2)\bin\Debug\FinalProjectPOS.exe.config
 C:\Users\Moon JinWoo\Desktop\직원관리 (2)\bin\Debug\FinalProjectPOS.exe
 C:\Users\Moon JinWoo\Desktop\직원관리 (2)\bin\Debug\FinalProjectPOS.pdb
+C:\Users\home\Desktop\직원관리2\Employee\bin\Debug\FinalProjectPOS.exe.config
+C:\Users\home\Desktop\직원관리2\Employee\obj\Debug\FinalProjectPOS.exe
+C:\Users\home\Desktop\직원관리2\Employee\obj\Debug\FinalProjectPOS.pdb
+C:\Users\home\Desktop\직원관리2\Employee\bin\Debug\FinalProjectPOS.exe
+C:\Users\home\Desktop\직원관리2\Employee\bin\Debug\FinalProjectPOS.pdb
+C:\Users\home\Desktop\직원관리2\Employee\obj\Debug\FinalProjectPOS.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\직원관리2\Employee\obj\Debug\FinalProjectPOS.Form1.resources
+C:\Users\home\Desktop\직원관리2\Employee\obj\Debug\FinalProjectPOS.JoinManager.resources
+C:\Users\home\Desktop\직원관리2\Employee\obj\Debug\FinalProjectPOS.Properties.Resources.resources
+C:\Users\home\Desktop\직원관리2\Employee\obj\Debug\FinalProjectPOS.UserMenu.resources
+C:\Users\home\Desktop\직원관리2\Employee\obj\Debug\FinalProjectPOS.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\Employee_Management\Employee\Employee\bin\Debug\FinalProjectPOS.exe.config
+C:\Users\home\Desktop\Employee_Management\Employee\Employee\obj\Debug\FinalProjectPOS.exe
+C:\Users\home\Desktop\Employee_Management\Employee\Employee\obj\Debug\FinalProjectPOS.pdb
+C:\Users\home\Desktop\Employee_Management\Employee\Employee\bin\Debug\FinalProjectPOS.exe
+C:\Users\home\Desktop\Employee_Management\Employee\Employee\bin\Debug\FinalProjectPOS.pdb
+C:\Users\home\Desktop\Employee_Management\Employee\Employee\obj\Debug\FinalProjectPOS.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\Employee_Management\Employee\Employee\obj\Debug\FinalProjectPOS.Form1.resources
+C:\Users\home\Desktop\Employee_Management\Employee\Employee\obj\Debug\FinalProjectPOS.JoinManager.resources
+C:\Users\home\Desktop\Employee_Management\Employee\Employee\obj\Debug\FinalProjectPOS.Properties.Resources.resources
+C:\Users\home\Desktop\Employee_Management\Employee\Employee\obj\Debug\FinalProjectPOS.UserMenu.resources
+C:\Users\home\Desktop\Employee_Management\Employee\Employee\obj\Debug\FinalProjectPOS.csproj.GenerateResource.Cache
